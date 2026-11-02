@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://crystal-bastion.hiimobapps.cn/sitemap.xml
